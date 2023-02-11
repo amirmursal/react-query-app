@@ -1,0 +1,122 @@
+{
+  "superheroes": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman",
+      "alterEgo": "Princess Diana"
+    },
+    {
+      "id": 4,
+      "name": "The Boys",
+      "alterEgo": "Home lander"
+    },
+    {
+      "name": "yu",
+      "alterEgo": "sa",
+      "id": 5
+    },
+    {
+      "name": "sdfl",
+      "alterEgo": "lkf",
+      "id": 6
+    },
+    {
+      "name": "sdfl",
+      "alterEgo": "lkf",
+      "id": 7
+    },
+    {
+      "name": "1",
+      "alterEgo": "12",
+      "id": 8
+    },
+    {
+      "name": "23",
+      "alterEgo": "3",
+      "id": 9
+    },
+    {
+      "name": "cat ",
+      "alterEgo": "mini",
+      "id": 10
+    }
+  ],
+  "friends": [
+    {
+      "id": 1,
+      "name": "Rachel"
+    },
+    {
+      "id": 2,
+      "name": "James"
+    },
+    {
+      "id": 3,
+      "name": "Pablo"
+    },
+    {
+      "id": 4,
+      "name": "Yuhi"
+    }
+  ],
+  "users": [
+    {
+      "id": "amirmursal@gmail.com",
+      "channelId": "fake person"
+    }
+  ],
+  "channels": [
+    {
+      "id": "fake person",
+      "courses": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "label": "pink"
+    },
+    {
+      "id": 2,
+      "label": "yellow"
+    },
+    {
+      "id": 3,
+      "label": "white"
+    },
+    {
+      "id": 4,
+      "label": "green"
+    },
+    {
+      "id": 5,
+      "label": "orange"
+    },
+    {
+      "id": 6,
+      "label": "blue"
+    },
+    {
+      "id": 7,
+      "label": "red"
+    },
+    {
+      "id": 8,
+      "label": "grey"
+    }
+  ]
+}
